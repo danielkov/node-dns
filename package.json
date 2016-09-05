@@ -1,0 +1,28 @@
+{
+  "name": "node-dns",
+  "version": "1.0.0",
+  "description": "DNS lookup service using Node JS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielkov/node-dns.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "dns",
+    "lookup"
+  ],
+  "author": "Daniel Kovacs <kovacsemod@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danielkov/node-dns/issues"
+  },
+  "homepage": "https://github.com/danielkov/node-dns#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
